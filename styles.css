@@ -2,7 +2,6 @@
     font-family: 'Roboto'; 
     margin: 0;
     padding: 0;
-    width: 100%;
 }
 
 /* Header */
@@ -15,7 +14,6 @@
 .headerlogo{
     display: flex;
     flex: 1;
-    flex-shrink: 0;
     color: #f9faf8;
     font-size: 24px;
     margin-top: 20px;
