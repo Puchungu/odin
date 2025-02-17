@@ -78,6 +78,7 @@
     flex: 1;
     flex-wrap: wrap;
     justify-content: flex-end;
+    margin: auto;
 }
 
 .placeholder{
