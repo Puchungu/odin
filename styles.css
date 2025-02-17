@@ -78,10 +78,10 @@
     flex: 1;
     flex-wrap: wrap;
     justify-content: flex-end;
-    margin: auto;
 }
 
 .placeholder{
+    margin: auto;
     width: 100%;
     height: 100%;
 }
